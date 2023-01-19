@@ -24,3 +24,16 @@ D:\subversive\外包项目\011.百度API相关程序开发\demo1\demo1\obj\Debug
 D:\subversive\外包项目\011.百度API相关程序开发\demo1\demo1\obj\Debug\demo1.csproj.CopyComplete
 D:\subversive\外包项目\011.百度API相关程序开发\demo1\demo1\obj\Debug\demo1.exe
 D:\subversive\外包项目\011.百度API相关程序开发\demo1\demo1\obj\Debug\demo1.pdb
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\bin\Debug\demo1.exe.config
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\bin\Debug\demo1.exe
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\bin\Debug\demo1.pdb
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.Form1.resources
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.exe
+C:\Users\Administrator\Desktop\BaiduNetdiskUpload-master\BaiduNetdiskUpload-master\demo1\obj\Debug\demo1.pdb
